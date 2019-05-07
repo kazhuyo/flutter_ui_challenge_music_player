@@ -2,4 +2,4 @@
 
 Flutter Challenge - Music Player
 
-<img src="https://uimovement.com/media/resource_image/image_1662">
+<img src="/media/resource_image/image_1662" data-gif="/media/resource_image/image_1662" height="600" width="800">
